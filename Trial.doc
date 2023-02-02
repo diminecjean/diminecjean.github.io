@@ -1,0 +1,37 @@
+Description for Trial Programme
+
+Font used: Poppins
+Header 1: font-family: 'Poppins', sans-serif;
+          font-weight: 500;
+          font-size: 80px;
+Header 2: font-family: 'Poppins', sans-serif;
+          font-weight: 400;
+          font-size: 60px;
+Header 3: font-family: 'Poppins', sans-serif;
+          font-weight: 350;
+          font-size: 40px;
+Header 3: font-family: 'Poppins', sans-serif;
+          font-weight: 350;
+          font-size: 20px;
+Paragraph: font-family: 'Poppins', sans-serif;
+           font-weight: 300;
+           font-size: 14px;
+
+
+Colour Scheme: BLue, Black, Orange
+Blue (Main colour): https://imagecolorpicker.com/color-code/1b8bd2
+Black (sub main): https://imagecolorpicker.com/color-code/000000
+Orange (Highlights): https://imagecolorpicker.com/color-code/fd5018
+
+
+Class:
+header: 
+topnav: Top Navigation Bar
+header h1: Heading 1 under class header
+topnav a: Navigation Bar Links
+topnav a:hover : Colour change on hover 
+
+
+ID:
+p1: paragraph 1
+p2: paragraph 2
